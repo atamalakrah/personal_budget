@@ -14,3 +14,11 @@ Node.js
 Express
 Git and GitHub
 Postman
+
+
+
+create new envelopes by providing a budget and title
+get envelopes by providing an id
+get all envelopes
+delete an envelope by providing an id
+transfer budgets between two envelopes by providing 2 ids.
